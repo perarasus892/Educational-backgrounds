@@ -1,0 +1,466 @@
+Education,Age,Income,City,Gender,Marital Status,Job Role,Experience,Skills,Job Satisfaction,Workplace Type
+Master's Degree,0.5869565217391305,0.09710343374763003,Houston,Male,Married,HR Manager,0.5714285714285714,Excel,Very Dissatisfied,Hybrid
+Bachelor's Degree,0.3695652173913043,0.2508110385506635,Houston,Male,Single,Marketing Specialist,0.2857142857142857,Project Management,Dissatisfied,Remote
+Master's Degree,0.8260869565217392,0.6859174215293868,Phoenix,Female,Married,Data Scientist,0.6428571428571428,Project Management,Neutral,Hybrid
+Master's Degree,0.3695652173913043,0.36761112281440905,Houston,Female,Single,Researcher,0.7857142857142857,Communication,Very Satisfied,Hybrid
+PhD,0.9347826086956521,0.8862755424478619,Los Angeles,Other,Divorced,Sales Executive,0.7142857142857142,Data Analysis,Neutral,Hybrid
+Associate Degree,0.15217391304347827,0.9599325890035812,Los Angeles,Other,Married,Graphic Designer,0.14285714285714285,Marketing,Satisfied,Hybrid
+Bachelor's Degree,0.6521739130434783,0.3300400252791236,Houston,Male,Single,Software Engineer,0.42857142857142855,Project Management,Very Satisfied,In-office
+Master's Degree,0.7173913043478262,0.9106909627132926,New York,Female,Divorced,Sales Executive,0.5714285714285714,Data Analysis,Very Dissatisfied,In-office
+PhD,0.13043478260869568,0.8914682957657467,Houston,Other,Divorced,Software Engineer,1.0,Data Analysis,Neutral,In-office
+Associate Degree,0.3695652173913043,0.8170318095639351,Chicago,Other,Divorced,Sales Executive,0.2857142857142857,Python,Satisfied,Remote
+High School,0.17391304347826086,0.823477986096482,Los Angeles,Male,Single,Graphic Designer,0.21428571428571427,Excel,Very Dissatisfied,Remote
+Master's Degree,0.17391304347826086,0.6522645881609437,Los Angeles,Male,Single,Marketing Specialist,0.42857142857142855,Marketing,Dissatisfied,Remote
+Master's Degree,0.15217391304347827,0.22151885401306082,Chicago,Male,Single,Data Scientist,0.7857142857142857,Data Analysis,Dissatisfied,In-office
+High School,0.7391304347826086,0.47076048030334944,Houston,Other,Divorced,Sales Executive,0.14285714285714285,Project Management,Very Satisfied,Hybrid
+High School,0.3695652173913043,0.18453760269643982,Chicago,Other,Married,Software Engineer,0.07142857142857142,Data Analysis,Very Dissatisfied,In-office
+Master's Degree,0.28260869565217395,0.05678323151464082,Phoenix,Male,Divorced,Sales Executive,0.7857142857142857,SQL,Very Satisfied,Remote
+High School,0.5869565217391305,0.3735201179692437,Los Angeles,Male,Divorced,HR Manager,0.07142857142857142,Python,Satisfied,Remote
+Bachelor's Degree,0.06521739130434784,0.6186222877606908,Chicago,Female,Single,Data Scientist,0.21428571428571427,Java,Very Dissatisfied,Hybrid
+Associate Degree,0.8260869565217392,0.31924373288392666,Los Angeles,Female,Married,Data Scientist,0.42857142857142855,Project Management,Very Satisfied,Hybrid
+High School,0.4130434782608696,0.015167474194227926,New York,Female,Divorced,Software Engineer,0.0,Java,Dissatisfied,Hybrid
+Bachelor's Degree,0.5869565217391305,0.6985043185169579,Los Angeles,Male,Married,Graphic Designer,0.5714285714285714,SQL,Dissatisfied,Hybrid
+High School,0.23913043478260876,0.9506530440278069,New York,Male,Married,HR Manager,0.2857142857142857,Data Analysis,Very Satisfied,In-office
+PhD,0.9130434782608696,0.8623446387191911,Los Angeles,Female,Married,Data Scientist,1.0,Java,Very Dissatisfied,Hybrid
+Bachelor's Degree,0.28260869565217395,0.3021908573836107,New York,Other,Single,Software Engineer,0.5,Python,Neutral,Remote
+Master's Degree,0.6521739130434783,0.3982831261849589,Houston,Other,Married,Researcher,0.7857142857142857,Data Analysis,Very Satisfied,In-office
+PhD,0.4782608695652174,0.7743838213608594,New York,Male,Married,Marketing Specialist,0.5,SQL,Very Satisfied,Hybrid
+Master's Degree,0.4130434782608696,0.8798925637244575,Chicago,Female,Divorced,Researcher,0.6428571428571428,Marketing,Very Satisfied,In-office
+Bachelor's Degree,0.8043478260869565,0.49117337265641453,Chicago,Male,Married,Sales Executive,0.42857142857142855,Communication,Dissatisfied,Remote
+Bachelor's Degree,0.06521739130434784,0.5293132504739835,Los Angeles,Male,Divorced,Sales Executive,0.6428571428571428,Communication,Very Dissatisfied,Hybrid
+Master's Degree,0.30434782608695654,0.007783863492732246,Houston,Male,Married,Graphic Designer,0.7857142857142857,Python,Satisfied,Remote
+Bachelor's Degree,0.5217391304347826,0.6108910891089108,Chicago,Female,Married,Graphic Designer,0.3571428571428571,Communication,Very Satisfied,Hybrid
+Master's Degree,0.0,0.45228565409732463,Houston,Male,Married,Data Scientist,0.3571428571428571,Excel,Dissatisfied,Hybrid
+Bachelor's Degree,0.13043478260869568,0.4220455024225826,Phoenix,Other,Divorced,Graphic Designer,0.3571428571428571,Data Analysis,Dissatisfied,Hybrid
+Bachelor's Degree,0.6521739130434783,0.1611965451864335,Chicago,Female,Divorced,Data Scientist,0.5714285714285714,Project Management,Very Satisfied,In-office
+Bachelor's Degree,0.08695652173913049,0.1911312407836528,Chicago,Other,Divorced,Marketing Specialist,0.42857142857142855,Communication,Very Dissatisfied,Hybrid
+Master's Degree,0.9347826086956521,0.4263113545397092,Chicago,Male,Single,Data Scientist,0.5,Excel,Neutral,Remote
+PhD,0.23913043478260876,0.4473351590478197,Los Angeles,Other,Divorced,Data Scientist,0.5,Project Management,Very Satisfied,Remote
+Associate Degree,0.8260869565217392,0.7118285232778596,Chicago,Male,Divorced,Software Engineer,0.42857142857142855,Project Management,Dissatisfied,Remote
+Associate Degree,0.3695652173913043,0.5207078154623972,Los Angeles,Female,Single,Project Manager,0.14285714285714285,Marketing,Satisfied,Hybrid
+Master's Degree,0.19565217391304346,0.6834948388455866,Chicago,Female,Married,Project Manager,0.6428571428571428,SQL,Dissatisfied,Hybrid
+Bachelor's Degree,0.30434782608695654,0.5734253212555298,Chicago,Male,Divorced,Data Scientist,0.21428571428571427,Marketing,Very Satisfied,Hybrid
+Master's Degree,0.6304347826086956,0.18080893195702546,Houston,Male,Divorced,Software Engineer,0.7142857142857142,Project Management,Satisfied,Hybrid
+Master's Degree,0.34782608695652173,0.7620497156098589,Chicago,Other,Single,Project Manager,0.6428571428571428,Communication,Satisfied,In-office
+Bachelor's Degree,0.06521739130434784,0.46023804508110383,Los Angeles,Other,Divorced,Researcher,0.3571428571428571,Marketing,Very Dissatisfied,In-office
+Master's Degree,0.13043478260869568,0.7921529386981252,New York,Male,Married,Researcher,0.42857142857142855,Java,Dissatisfied,Hybrid
+Bachelor's Degree,0.8695652173913044,0.8033494838845587,Los Angeles,Male,Single,Data Scientist,0.3571428571428571,SQL,Satisfied,In-office
+Bachelor's Degree,0.6521739130434783,0.6236570465557194,Phoenix,Male,Divorced,HR Manager,0.2857142857142857,Communication,Neutral,Remote
+Bachelor's Degree,0.8260869565217392,0.022319359595533994,New York,Female,Divorced,Sales Executive,0.6428571428571428,Marketing,Very Satisfied,In-office
+Bachelor's Degree,0.7173913043478262,0.4046450389719823,Los Angeles,Female,Married,Project Manager,0.42857142857142855,Project Management,Dissatisfied,Hybrid
+Master's Degree,0.10869565217391308,0.5664103644406993,Los Angeles,Male,Married,Data Scientist,0.3571428571428571,Data Analysis,Satisfied,Hybrid
+Bachelor's Degree,0.9565217391304348,0.02090794185801559,Phoenix,Other,Single,Data Scientist,0.42857142857142855,SQL,Satisfied,In-office
+Bachelor's Degree,0.9347826086956521,0.8677269854645038,New York,Male,Divorced,Software Engineer,0.5,Marketing,Dissatisfied,Remote
+Master's Degree,0.30434782608695654,0.5632399410153781,Houston,Other,Single,Sales Executive,0.5714285714285714,Data Analysis,Very Satisfied,Hybrid
+Master's Degree,0.28260869565217395,0.3973772909205813,Phoenix,Male,Divorced,Data Scientist,0.7857142857142857,Marketing,Neutral,Hybrid
+Bachelor's Degree,0.10869565217391308,0.09168948809774591,Chicago,Female,Single,Graphic Designer,0.5714285714285714,Excel,Satisfied,In-office
+PhD,0.7826086956521738,0.09954708236781123,Chicago,Other,Married,Researcher,0.6428571428571428,Python,Dissatisfied,In-office
+Master's Degree,0.673913043478261,0.79348009269012,New York,Female,Married,Graphic Designer,0.42857142857142855,Project Management,Satisfied,In-office
+Bachelor's Degree,0.043478260869565244,0.2240994312197177,Chicago,Other,Divorced,Sales Executive,0.5714285714285714,Marketing,Dissatisfied,In-office
+Bachelor's Degree,0.043478260869565244,0.3756688434800926,Houston,Male,Married,Project Manager,0.42857142857142855,Marketing,Very Dissatisfied,In-office
+Bachelor's Degree,0.4565217391304348,0.9086580998525384,Phoenix,Male,Divorced,Graphic Designer,0.3571428571428571,Communication,Very Dissatisfied,Hybrid
+Master's Degree,0.19565217391304346,0.09966294501790601,New York,Male,Married,HR Manager,0.42857142857142855,Marketing,Neutral,Hybrid
+Bachelor's Degree,0.043478260869565244,0.22355171687381503,New York,Other,Divorced,Project Manager,0.6428571428571428,Java,Very Dissatisfied,Hybrid
+Bachelor's Degree,0.23913043478260876,0.07198230461344002,Los Angeles,Female,Married,Software Engineer,0.2857142857142857,Python,Dissatisfied,Remote
+Associate Degree,0.6086956521739131,0.7365809985253844,Los Angeles,Male,Single,Researcher,0.42857142857142855,Marketing,Neutral,Hybrid
+Bachelor's Degree,0.34782608695652173,0.10977459448072463,New York,Other,Single,Researcher,0.3571428571428571,SQL,Satisfied,Remote
+PhD,0.13043478260869568,0.589783020855277,Chicago,Female,Married,Researcher,0.5,Project Management,Satisfied,Hybrid
+Bachelor's Degree,0.26086956521739135,0.6526543079839899,Los Angeles,Male,Married,Sales Executive,0.42857142857142855,Excel,Dissatisfied,In-office
+PhD,0.06521739130434784,0.9275542447861806,Houston,Male,Married,Researcher,0.7142857142857142,SQL,Very Satisfied,In-office
+Bachelor's Degree,0.19565217391304346,0.5248051400884768,Los Angeles,Female,Single,Marketing Specialist,0.2857142857142857,Project Management,Satisfied,Remote
+Bachelor's Degree,0.8260869565217392,0.3349273225194859,New York,Female,Divorced,Researcher,0.2857142857142857,Data Analysis,Dissatisfied,Hybrid
+Master's Degree,0.34782608695652173,0.6028755003159889,Houston,Other,Single,Sales Executive,0.7142857142857142,Java,Very Dissatisfied,Remote
+High School,0.10869565217391308,0.7618811881188119,Los Angeles,Female,Divorced,Software Engineer,0.14285714285714285,Communication,Satisfied,Remote
+Bachelor's Degree,0.3913043478260869,0.8211712660627766,Chicago,Male,Single,Software Engineer,0.6428571428571428,Python,Very Dissatisfied,Remote
+Bachelor's Degree,0.08695652173913049,0.9454286918053507,Chicago,Female,Divorced,Software Engineer,0.5714285714285714,Python,Dissatisfied,Remote
+Associate Degree,0.673913043478261,0.9074784074152096,Chicago,Female,Married,Software Engineer,0.14285714285714285,Project Management,Very Dissatisfied,Remote
+Bachelor's Degree,0.19565217391304346,0.42877606909627125,New York,Other,Married,Data Scientist,0.5,SQL,Very Satisfied,In-office
+Bachelor's Degree,0.17391304347826086,0.25807878660206446,Phoenix,Female,Married,Project Manager,0.5,Excel,Very Satisfied,Hybrid
+High School,0.5652173913043479,0.8218243100905835,Chicago,Female,Single,HR Manager,0.07142857142857142,Java,Neutral,Remote
+Bachelor's Degree,0.26086956521739135,0.49536549399620805,Houston,Male,Single,Marketing Specialist,0.2857142857142857,Project Management,Satisfied,In-office
+Associate Degree,0.06521739130434784,0.39350115862650087,Houston,Female,Divorced,HR Manager,0.3571428571428571,Marketing,Dissatisfied,Remote
+Associate Degree,0.7391304347826086,0.41726353486412465,New York,Female,Divorced,Marketing Specialist,0.21428571428571427,Java,Very Dissatisfied,Hybrid
+Associate Degree,0.8478260869565217,0.40173793975142186,Phoenix,Male,Married,HR Manager,0.3571428571428571,Communication,Very Satisfied,Hybrid
+Master's Degree,0.7391304347826086,0.30309669264798816,Phoenix,Other,Married,Marketing Specialist,0.6428571428571428,Data Analysis,Satisfied,In-office
+Master's Degree,0.5217391304347826,0.8049294291131242,Phoenix,Other,Single,Project Manager,0.6428571428571428,Project Management,Satisfied,Remote
+Associate Degree,0.8478260869565217,0.40528755003159883,Phoenix,Male,Single,Data Scientist,0.21428571428571427,Java,Very Dissatisfied,Remote
+High School,0.26086956521739135,0.9255951127027595,Los Angeles,Female,Divorced,Data Scientist,0.2857142857142857,Excel,Dissatisfied,In-office
+Bachelor's Degree,0.9782608695652173,0.12931325047398357,New York,Male,Married,Marketing Specialist,0.21428571428571427,Excel,Satisfied,Hybrid
+Associate Degree,0.26086956521739135,0.13035601432483673,New York,Other,Divorced,Researcher,0.14285714285714285,Excel,Very Dissatisfied,Hybrid
+Associate Degree,0.10869565217391308,0.687560564567095,New York,Female,Divorced,Graphic Designer,0.42857142857142855,Project Management,Very Satisfied,Hybrid
+Master's Degree,0.7608695652173914,0.41535706762165575,New York,Male,Single,Sales Executive,0.3571428571428571,Python,Very Satisfied,In-office
+Master's Degree,0.8478260869565217,0.20362334105750995,New York,Male,Single,Software Engineer,0.7142857142857142,Java,Dissatisfied,In-office
+Bachelor's Degree,0.34782608695652173,0.27658521171266054,Chicago,Male,Married,Project Manager,0.5714285714285714,Java,Very Satisfied,Remote
+High School,0.26086956521739135,0.3595112702759637,Los Angeles,Other,Divorced,HR Manager,0.0,Project Management,Very Dissatisfied,Hybrid
+Bachelor's Degree,0.5869565217391305,0.2860016852749104,New York,Male,Married,Data Scientist,0.42857142857142855,SQL,Neutral,Hybrid
+Bachelor's Degree,0.9130434782608696,0.15122182431009057,New York,Other,Married,Researcher,0.3571428571428571,SQL,Dissatisfied,Hybrid
+Bachelor's Degree,0.5434782608695652,0.8696966505161154,New York,Male,Single,Researcher,0.5,Data Analysis,Satisfied,Hybrid
+High School,0.4565217391304348,0.6910996418790814,Chicago,Male,Single,HR Manager,0.07142857142857142,Python,Satisfied,Hybrid
+Associate Degree,1.0,0.46575732041289225,Houston,Female,Divorced,Project Manager,0.14285714285714285,SQL,Very Satisfied,Hybrid
+Bachelor's Degree,0.9130434782608696,0.9126290288603329,Phoenix,Male,Divorced,Sales Executive,0.3571428571428571,SQL,Neutral,Remote
+Master's Degree,0.7391304347826086,0.13953022961870654,New York,Other,Single,Graphic Designer,0.3571428571428571,Marketing,Dissatisfied,Remote
+High School,0.23913043478260876,0.665894248999368,Houston,Female,Single,Software Engineer,0.2857142857142857,Communication,Very Dissatisfied,Hybrid
+Bachelor's Degree,0.5,0.3636191278702338,Phoenix,Other,Divorced,Graphic Designer,0.5,Python,Very Satisfied,Remote
+Associate Degree,0.4130434782608696,0.2065831051190225,Chicago,Other,Married,Sales Executive,0.3571428571428571,Data Analysis,Satisfied,Hybrid
+Bachelor's Degree,0.8260869565217392,0.7554350115862649,Phoenix,Other,Married,Marketing Specialist,0.6428571428571428,SQL,Neutral,Hybrid
+High School,0.26086956521739135,0.16407204550242255,Chicago,Other,Divorced,Researcher,0.2857142857142857,SQL,Satisfied,In-office
+PhD,0.8695652173913044,0.5338634927322519,Houston,Male,Married,Researcher,0.9285714285714285,Excel,Very Satisfied,Hybrid
+Bachelor's Degree,0.9565217391304348,0.2144722982936591,Houston,Female,Divorced,Researcher,0.42857142857142855,Data Analysis,Satisfied,Remote
+Associate Degree,0.23913043478260876,0.7939224773541185,Phoenix,Male,Married,Software Engineer,0.2857142857142857,Communication,Very Dissatisfied,In-office
+Associate Degree,0.19565217391304346,0.04163682325679374,New York,Other,Married,Marketing Specialist,0.42857142857142855,Excel,Very Dissatisfied,Hybrid
+Master's Degree,0.6956521739130435,0.09969454392247734,Los Angeles,Female,Single,HR Manager,0.5714285714285714,Excel,Satisfied,Remote
+Master's Degree,0.8478260869565217,0.7498420054771435,Phoenix,Male,Single,Data Scientist,0.5,Marketing,Dissatisfied,Remote
+Master's Degree,0.32608695652173914,0.7508953022961871,Chicago,Female,Divorced,Project Manager,0.6428571428571428,Java,Very Dissatisfied,In-office
+PhD,0.9565217391304348,0.17859700863703387,Houston,Female,Married,Marketing Specialist,0.5714285714285714,Excel,Dissatisfied,Remote
+Master's Degree,0.7391304347826086,0.23943543290499264,Chicago,Other,Single,Marketing Specialist,0.6428571428571428,Communication,Satisfied,Hybrid
+Bachelor's Degree,0.043478260869565244,0.9637771223930904,Los Angeles,Male,Divorced,Researcher,0.3571428571428571,Project Management,Neutral,Hybrid
+Associate Degree,0.08695652173913049,0.01575732041289235,Los Angeles,Other,Divorced,HR Manager,0.14285714285714285,Communication,Dissatisfied,Hybrid
+Bachelor's Degree,0.5434782608695652,0.5200547714345902,New York,Male,Divorced,Software Engineer,0.21428571428571427,Communication,Satisfied,Hybrid
+High School,0.21739130434782616,0.9651148093532758,New York,Female,Divorced,Data Scientist,0.0,Marketing,Dissatisfied,Hybrid
+Master's Degree,0.13043478260869568,0.6908152517379398,Los Angeles,Male,Divorced,Researcher,0.7142857142857142,Java,Very Dissatisfied,In-office
+High School,0.8913043478260869,0.9582999789340636,Phoenix,Female,Divorced,Researcher,0.0,Excel,Very Dissatisfied,Hybrid
+High School,0.7173913043478262,0.41925426585211706,Houston,Female,Married,HR Manager,0.07142857142857142,Data Analysis,Very Satisfied,In-office
+Associate Degree,0.043478260869565244,0.48249420686749517,New York,Male,Single,Marketing Specialist,0.14285714285714285,SQL,Satisfied,In-office
+Bachelor's Degree,0.15217391304347827,0.778649673477986,Houston,Other,Divorced,Project Manager,0.5714285714285714,Communication,Dissatisfied,In-office
+Bachelor's Degree,0.21739130434782616,0.7027280387613228,Los Angeles,Female,Married,Sales Executive,0.5,SQL,Very Dissatisfied,Remote
+Bachelor's Degree,0.9565217391304348,0.39912576364019375,Phoenix,Other,Married,Project Manager,0.5,SQL,Very Dissatisfied,Hybrid
+Bachelor's Degree,0.13043478260869568,0.7415841584158416,Phoenix,Female,Single,Researcher,0.21428571428571427,Java,Dissatisfied,Hybrid
+Associate Degree,0.9565217391304348,0.195218032441542,Los Angeles,Female,Divorced,Project Manager,0.42857142857142855,Java,Very Satisfied,Hybrid
+High School,0.02173913043478265,0.6791868548556983,Houston,Other,Divorced,Marketing Specialist,0.0,Marketing,Neutral,Remote
+Bachelor's Degree,0.8695652173913044,0.0798609648198862,Chicago,Female,Single,Researcher,0.21428571428571427,Java,Very Dissatisfied,Hybrid
+Associate Degree,0.4130434782608696,0.16603117758584368,Houston,Female,Divorced,Sales Executive,0.3571428571428571,Project Management,Very Satisfied,In-office
+High School,0.7173913043478262,0.61111228144091,Los Angeles,Female,Divorced,HR Manager,0.21428571428571427,Python,Neutral,Remote
+Bachelor's Degree,0.32608695652173914,0.7149568148304191,Houston,Female,Divorced,Software Engineer,0.6428571428571428,Java,Satisfied,Hybrid
+Associate Degree,0.5217391304347826,0.20683589635559296,Phoenix,Female,Single,Software Engineer,0.3571428571428571,Excel,Very Satisfied,Remote
+Master's Degree,0.13043478260869568,0.6934484937855487,Chicago,Female,Married,Project Manager,0.42857142857142855,Java,Dissatisfied,In-office
+PhD,0.34782608695652173,0.9070992205603539,Phoenix,Male,Divorced,Marketing Specialist,1.0,Java,Neutral,In-office
+Bachelor's Degree,0.21739130434782616,0.07126606277649039,Phoenix,Male,Married,Sales Executive,0.5714285714285714,Java,Satisfied,In-office
+Bachelor's Degree,0.10869565217391308,0.34611333473772904,Phoenix,Other,Married,Researcher,0.3571428571428571,Communication,Satisfied,Hybrid
+Bachelor's Degree,0.4782608695652174,0.07079207920792074,Los Angeles,Male,Single,Researcher,0.42857142857142855,Excel,Dissatisfied,Hybrid
+Bachelor's Degree,0.5652173913043479,0.48981461975984825,Chicago,Female,Single,Data Scientist,0.5714285714285714,Data Analysis,Very Satisfied,Remote
+Bachelor's Degree,0.9782608695652173,0.2167684853591742,Phoenix,Female,Married,Sales Executive,0.42857142857142855,Python,Dissatisfied,Hybrid
+High School,0.10869565217391308,0.852728038761323,Phoenix,Male,Single,Project Manager,0.14285714285714285,Communication,Neutral,In-office
+High School,0.8043478260869565,0.7287023383189382,Houston,Female,Married,Software Engineer,0.0,Excel,Satisfied,Hybrid
+Associate Degree,0.4130434782608696,0.6072045502422583,Chicago,Female,Single,HR Manager,0.2857142857142857,Marketing,Very Satisfied,Hybrid
+High School,0.5217391304347826,0.12146618917210866,Chicago,Other,Single,Software Engineer,0.0,SQL,Very Satisfied,Hybrid
+Master's Degree,0.30434782608695654,0.5727090794185801,Chicago,Other,Divorced,Graphic Designer,0.6428571428571428,Excel,Very Dissatisfied,Remote
+PhD,0.15217391304347827,0.34163682325679373,Phoenix,Other,Single,Project Manager,0.5,Python,Satisfied,Remote
+Bachelor's Degree,0.7826086956521738,0.3332104487044449,Los Angeles,Male,Divorced,Researcher,0.3571428571428571,Java,Neutral,In-office
+Master's Degree,0.6956521739130435,0.723383189382768,New York,Female,Divorced,Data Scientist,0.7142857142857142,Java,Neutral,In-office
+Master's Degree,0.4565217391304348,0.6187592163471665,Houston,Male,Single,Software Engineer,0.7142857142857142,Excel,Dissatisfied,Hybrid
+Bachelor's Degree,1.0,0.3485885822624815,Chicago,Female,Divorced,Data Scientist,0.3571428571428571,Data Analysis,Satisfied,Remote
+Associate Degree,0.08695652173913049,0.9934484937855488,New York,Female,Married,Software Engineer,0.2857142857142857,Python,Very Satisfied,Remote
+PhD,0.8260869565217392,0.10206446176532546,New York,Female,Divorced,Project Manager,0.7857142857142857,SQL,Very Satisfied,Remote
+Bachelor's Degree,0.3695652173913043,0.6594586054350116,Los Angeles,Female,Married,HR Manager,0.5,Communication,Dissatisfied,In-office
+Bachelor's Degree,0.8043478260869565,0.0,Houston,Female,Married,Sales Executive,0.2857142857142857,Java,Dissatisfied,Remote
+High School,0.7826086956521738,0.6566463029281651,Chicago,Male,Single,Researcher,0.0,Python,Very Satisfied,In-office
+High School,0.6304347826086956,0.5010638297872341,Houston,Female,Divorced,Project Manager,0.0,SQL,Very Satisfied,Remote
+Master's Degree,0.6521739130434783,0.18294712449968398,Los Angeles,Other,Married,Data Scientist,0.6428571428571428,Communication,Satisfied,Remote
+Bachelor's Degree,0.19565217391304346,0.47796503054560774,Phoenix,Other,Married,Software Engineer,0.3571428571428571,Java,Dissatisfied,Hybrid
+Associate Degree,0.30434782608695654,0.5016747419422793,New York,Female,Divorced,Data Scientist,0.2857142857142857,Python,Satisfied,Remote
+High School,0.8913043478260869,0.7113124078365283,Chicago,Other,Married,Sales Executive,0.14285714285714285,Communication,Very Satisfied,Hybrid
+Bachelor's Degree,0.9347826086956521,0.14193174636612593,Phoenix,Male,Divorced,Graphic Designer,0.5714285714285714,Excel,Very Dissatisfied,Hybrid
+Bachelor's Degree,0.3695652173913043,0.5784179481777965,Los Angeles,Male,Single,Researcher,0.3571428571428571,Data Analysis,Very Dissatisfied,In-office
+Associate Degree,0.4782608695652174,0.7985148514851486,Houston,Female,Married,Project Manager,0.2857142857142857,Marketing,Very Satisfied,Remote
+Master's Degree,0.6956521739130435,0.8705076890667789,New York,Female,Married,Data Scientist,0.7142857142857142,Marketing,Dissatisfied,Remote
+High School,0.32608695652173914,0.2666631556772698,Chicago,Female,Divorced,Data Scientist,0.2857142857142857,Java,Very Dissatisfied,Remote
+Bachelor's Degree,0.7391304347826086,0.6270170634084684,Phoenix,Other,Divorced,Graphic Designer,0.5714285714285714,Communication,Very Dissatisfied,Remote
+Associate Degree,0.7173913043478262,0.6849167895512955,New York,Male,Divorced,Software Engineer,0.21428571428571427,Python,Dissatisfied,In-office
+Master's Degree,0.5869565217391305,0.019780914261638916,Houston,Other,Married,Graphic Designer,0.5,Marketing,Very Dissatisfied,In-office
+Master's Degree,0.02173913043478265,0.4227828101959132,Los Angeles,Male,Single,Data Scientist,0.5714285714285714,Java,Dissatisfied,Remote
+High School,0.26086956521739135,0.2750368653886665,Houston,Male,Single,Software Engineer,0.0,Java,Dissatisfied,In-office
+Associate Degree,0.32608695652173914,0.8167158205182221,New York,Other,Divorced,Researcher,0.42857142857142855,Project Management,Satisfied,Hybrid
+Bachelor's Degree,0.08695652173913049,0.8493364230040026,New York,Male,Married,Graphic Designer,0.42857142857142855,Data Analysis,Very Satisfied,In-office
+Master's Degree,0.5869565217391305,0.8549715609858859,Los Angeles,Other,Married,Researcher,0.7142857142857142,Marketing,Satisfied,Hybrid
+Master's Degree,0.9565217391304348,0.8500210659363809,New York,Male,Divorced,HR Manager,0.5,Python,Satisfied,Hybrid
+PhD,0.4130434782608696,0.3005371813777122,Los Angeles,Other,Married,Software Engineer,0.5714285714285714,SQL,Dissatisfied,In-office
+Master's Degree,0.5,0.5323362123446387,Los Angeles,Other,Divorced,Graphic Designer,0.5,Project Management,Satisfied,Remote
+Associate Degree,0.5652173913043479,0.7717927111860121,Houston,Female,Married,HR Manager,0.3571428571428571,Project Management,Dissatisfied,In-office
+Associate Degree,0.6304347826086956,1.0,Chicago,Female,Single,Project Manager,0.2857142857142857,Java,Dissatisfied,In-office
+Bachelor's Degree,0.13043478260869568,0.9096903307352011,New York,Female,Single,Software Engineer,0.3571428571428571,Data Analysis,Very Dissatisfied,Remote
+Master's Degree,0.8913043478260869,0.7223404255319148,Phoenix,Female,Single,Researcher,0.3571428571428571,SQL,Very Dissatisfied,Hybrid
+High School,1.0,0.17812302506846428,Los Angeles,Male,Divorced,HR Manager,0.0,Marketing,Very Satisfied,Hybrid
+Master's Degree,0.08695652173913049,0.5338845586686327,Los Angeles,Other,Married,Project Manager,0.42857142857142855,Marketing,Neutral,In-office
+Bachelor's Degree,0.4782608695652174,0.46800084263745517,Houston,Male,Single,Researcher,0.3571428571428571,Data Analysis,Very Dissatisfied,In-office
+High School,0.5869565217391305,0.7009479671371392,Chicago,Male,Married,Marketing Specialist,0.14285714285714285,Data Analysis,Satisfied,Hybrid
+Master's Degree,0.30434782608695654,0.13311565199073094,New York,Female,Single,Researcher,0.5714285714285714,Java,Neutral,In-office
+Master's Degree,0.673913043478261,0.6540025279123656,Houston,Male,Married,Marketing Specialist,0.5714285714285714,Java,Satisfied,Hybrid
+Master's Degree,0.5434782608695652,0.37174004634506,Phoenix,Male,Divorced,Software Engineer,0.7857142857142857,Data Analysis,Satisfied,In-office
+Bachelor's Degree,0.6521739130434783,0.018443227301453535,Houston,Other,Married,Sales Executive,0.3571428571428571,Marketing,Dissatisfied,Hybrid
+High School,0.3913043478260869,0.13859279544975772,Chicago,Male,Single,Researcher,0.07142857142857142,Data Analysis,Dissatisfied,Hybrid
+Master's Degree,0.6086956521739131,0.9081314514430165,Phoenix,Other,Divorced,Software Engineer,0.5,Python,Very Dissatisfied,Remote
+High School,0.8260869565217392,0.9240257004423846,New York,Male,Married,Sales Executive,0.21428571428571427,Marketing,Satisfied,Hybrid
+Associate Degree,0.06521739130434784,0.05297029702970296,Los Angeles,Female,Married,Researcher,0.2857142857142857,Project Management,Satisfied,Hybrid
+Bachelor's Degree,0.043478260869565244,0.6386665262270907,Chicago,Female,Divorced,Researcher,0.42857142857142855,Communication,Very Dissatisfied,Remote
+High School,0.6086956521739131,0.19701917000210656,Phoenix,Other,Married,Sales Executive,0.14285714285714285,Marketing,Very Dissatisfied,In-office
+Associate Degree,0.21739130434782616,0.20148514851485144,Chicago,Male,Single,Marketing Specialist,0.42857142857142855,Marketing,Satisfied,In-office
+Bachelor's Degree,0.6956521739130435,0.3686749526016431,Houston,Female,Married,Software Engineer,0.42857142857142855,Java,Neutral,In-office
+Associate Degree,0.8043478260869565,0.2062881820096903,Chicago,Female,Married,Project Manager,0.21428571428571427,Project Management,Satisfied,Hybrid
+High School,0.21739130434782616,0.8742363598061933,Phoenix,Female,Divorced,Project Manager,0.2857142857142857,Marketing,Neutral,Remote
+Master's Degree,0.5652173913043479,0.9085106382978723,Los Angeles,Female,Married,Software Engineer,0.7142857142857142,Java,Neutral,In-office
+Master's Degree,0.6956521739130435,0.054350115862650095,Los Angeles,Male,Married,Software Engineer,0.5,Data Analysis,Satisfied,Remote
+Associate Degree,0.4347826086956522,0.31232357278281014,Chicago,Male,Married,HR Manager,0.3571428571428571,SQL,Very Satisfied,Remote
+Master's Degree,0.8260869565217392,0.6329365915314935,New York,Male,Single,Data Scientist,0.6428571428571428,Project Management,Very Dissatisfied,Hybrid
+Bachelor's Degree,0.8043478260869565,0.5865809985253845,Houston,Female,Single,Marketing Specialist,0.6428571428571428,Python,Satisfied,Remote
+Master's Degree,0.5652173913043479,0.4970507689066778,Los Angeles,Female,Single,Data Scientist,0.6428571428571428,Data Analysis,Very Dissatisfied,Hybrid
+Master's Degree,1.0,0.08630714135243311,Phoenix,Other,Married,Graphic Designer,0.6428571428571428,Java,Dissatisfied,Hybrid
+Associate Degree,0.3695652173913043,0.25327575310722555,Chicago,Female,Single,Project Manager,0.14285714285714285,Communication,Dissatisfied,In-office
+Associate Degree,0.0,0.3138508531704233,Chicago,Female,Married,Marketing Specialist,0.2857142857142857,Project Management,Very Satisfied,In-office
+Master's Degree,0.7391304347826086,0.38772909205814193,Houston,Male,Single,Sales Executive,0.5714285714285714,Python,Neutral,Remote
+Master's Degree,0.7391304347826086,0.7193385295976404,Los Angeles,Male,Divorced,Software Engineer,0.5714285714285714,Project Management,Neutral,Hybrid
+Master's Degree,0.6521739130434783,0.5929323783442173,New York,Other,Single,Researcher,0.7857142857142857,Communication,Very Satisfied,Hybrid
+Associate Degree,0.5869565217391305,0.27343585422372024,Houston,Female,Single,Data Scientist,0.3571428571428571,Java,Neutral,In-office
+Master's Degree,0.8260869565217392,0.37369917842848105,Houston,Other,Divorced,HR Manager,0.6428571428571428,Excel,Very Satisfied,Hybrid
+High School,0.0,0.25045291763218874,New York,Male,Single,Project Manager,0.14285714285714285,SQL,Satisfied,Hybrid
+High School,0.5217391304347826,0.388382136085949,Chicago,Male,Married,Sales Executive,0.07142857142857142,Excel,Very Dissatisfied,Hybrid
+High School,0.8043478260869565,0.7976932799662946,Chicago,Male,Single,Project Manager,0.21428571428571427,Communication,Very Satisfied,In-office
+Associate Degree,0.4130434782608696,0.10242258268380028,Houston,Female,Single,Graphic Designer,0.2857142857142857,Java,Very Satisfied,In-office
+Associate Degree,0.02173913043478265,0.44857804929429107,Phoenix,Female,Single,HR Manager,0.2857142857142857,Python,Satisfied,Hybrid
+Bachelor's Degree,0.08695652173913049,0.7942279334316411,Chicago,Other,Single,Graphic Designer,0.5,Excel,Dissatisfied,Hybrid
+Master's Degree,0.17391304347826086,0.9198862439435433,New York,Female,Single,Project Manager,0.7857142857142857,Communication,Satisfied,Hybrid
+Master's Degree,0.02173913043478265,0.11531493574889401,Houston,Female,Single,HR Manager,0.5,SQL,Very Dissatisfied,In-office
+Bachelor's Degree,0.7173913043478262,0.7412681693701284,Los Angeles,Female,Married,Data Scientist,0.3571428571428571,SQL,Neutral,In-office
+High School,0.6521739130434783,0.8181904360648831,Chicago,Female,Divorced,Sales Executive,0.07142857142857142,Java,Neutral,In-office
+Associate Degree,0.19565217391304346,0.9439540762586898,New York,Male,Single,Researcher,0.14285714285714285,Python,Very Satisfied,Remote
+Master's Degree,0.23913043478260876,0.3545397092900779,Los Angeles,Other,Divorced,Software Engineer,0.5,Project Management,Very Satisfied,Hybrid
+Associate Degree,0.7608695652173914,0.9143880345481357,Houston,Male,Divorced,Data Scientist,0.2857142857142857,Marketing,Neutral,Hybrid
+PhD,0.4347826086956522,0.9875816305034759,Phoenix,Other,Single,Graphic Designer,0.7142857142857142,Marketing,Dissatisfied,Hybrid
+Bachelor's Degree,1.0,0.020950073730777286,New York,Other,Married,Researcher,0.5,Marketing,Dissatisfied,Hybrid
+Master's Degree,0.10869565217391308,0.08351590478196752,Houston,Other,Married,Sales Executive,0.42857142857142855,Java,Very Satisfied,Hybrid
+Bachelor's Degree,0.043478260869565244,0.05017906045923737,Phoenix,Other,Single,Sales Executive,0.5714285714285714,Python,Neutral,Remote
+Bachelor's Degree,0.19565217391304346,0.5893617021276596,Chicago,Other,Single,HR Manager,0.2857142857142857,Data Analysis,Dissatisfied,Hybrid
+Master's Degree,0.9782608695652173,0.5430587739625026,Los Angeles,Male,Single,Software Engineer,0.42857142857142855,Excel,Neutral,Hybrid
+Bachelor's Degree,0.5434782608695652,0.8611649462818622,Phoenix,Male,Single,Graphic Designer,0.5,Project Management,Satisfied,Remote
+PhD,0.4347826086956522,0.20248578049294286,Chicago,Female,Single,HR Manager,0.8571428571428571,Marketing,Neutral,Remote
+Associate Degree,0.9565217391304348,0.11248156730566672,Chicago,Other,Married,Marketing Specialist,0.42857142857142855,Communication,Neutral,Remote
+High School,0.5434782608695652,0.35999578681272376,Los Angeles,Male,Divorced,Software Engineer,0.0,SQL,Very Dissatisfied,In-office
+Associate Degree,0.8043478260869565,0.9927111860122182,Houston,Female,Divorced,Software Engineer,0.3571428571428571,Data Analysis,Very Dissatisfied,Remote
+Associate Degree,0.15217391304347827,0.36868548556983355,New York,Male,Single,Researcher,0.3571428571428571,Project Management,Neutral,Remote
+Bachelor's Degree,0.08695652173913049,0.45187486833789753,Houston,Other,Married,Researcher,0.21428571428571427,SQL,Dissatisfied,Remote
+Bachelor's Degree,0.32608695652173914,0.6090478196755844,Los Angeles,Male,Married,Sales Executive,0.5714285714285714,SQL,Neutral,Hybrid
+Master's Degree,0.0,0.5822940804718768,New York,Other,Married,Project Manager,0.6428571428571428,SQL,Very Satisfied,In-office
+Associate Degree,0.32608695652173914,0.6934800926901201,New York,Female,Divorced,HR Manager,0.3571428571428571,Marketing,Very Dissatisfied,In-office
+Bachelor's Degree,0.7826086956521738,0.9348219928375816,Houston,Other,Single,Project Manager,0.5714285714285714,Data Analysis,Dissatisfied,In-office
+PhD,0.043478260869565244,0.6021487255108489,Phoenix,Other,Divorced,Sales Executive,0.7142857142857142,Marketing,Neutral,Remote
+Master's Degree,1.0,0.7760374973667579,Phoenix,Female,Divorced,Researcher,0.7142857142857142,Python,Very Satisfied,In-office
+Bachelor's Degree,0.6521739130434783,0.6095007373077732,Houston,Other,Married,Project Manager,0.21428571428571427,SQL,Very Dissatisfied,In-office
+Bachelor's Degree,0.26086956521739135,0.9228144091004844,New York,Female,Single,Software Engineer,0.2857142857142857,Excel,Very Satisfied,Hybrid
+Associate Degree,0.32608695652173914,0.15339161575732035,Los Angeles,Other,Married,Software Engineer,0.14285714285714285,Project Management,Neutral,Hybrid
+Master's Degree,0.4347826086956522,0.007362544765114776,Phoenix,Other,Married,Marketing Specialist,0.6428571428571428,SQL,Very Dissatisfied,Hybrid
+Associate Degree,0.5652173913043479,0.46128080893195694,Los Angeles,Male,Single,Sales Executive,0.3571428571428571,Project Management,Satisfied,Hybrid
+Associate Degree,0.8043478260869565,0.9322308826627344,Chicago,Male,Married,Graphic Designer,0.3571428571428571,Java,Dissatisfied,Remote
+High School,0.8043478260869565,0.6326416684221614,Houston,Male,Married,Software Engineer,0.07142857142857142,Java,Neutral,Hybrid
+High School,0.9782608695652173,0.8463239941015377,Chicago,Female,Single,Project Manager,0.21428571428571427,SQL,Very Dissatisfied,In-office
+High School,0.21739130434782616,0.18290499262692222,Houston,Female,Divorced,Graphic Designer,0.07142857142857142,Communication,Dissatisfied,In-office
+High School,0.15217391304347827,0.3611754792500526,Houston,Male,Married,Graphic Designer,0.2857142857142857,Java,Very Dissatisfied,Hybrid
+Bachelor's Degree,0.15217391304347827,0.7847377290920581,New York,Other,Divorced,Researcher,0.5,SQL,Very Dissatisfied,Remote
+High School,0.13043478260869568,0.5045923741310301,Chicago,Other,Married,Sales Executive,0.0,SQL,Dissatisfied,In-office
+Associate Degree,0.8043478260869565,0.8539603960396038,Los Angeles,Other,Married,Sales Executive,0.42857142857142855,Marketing,Very Satisfied,In-office
+Associate Degree,0.4347826086956522,0.3034758795028439,Phoenix,Male,Single,Software Engineer,0.14285714285714285,Project Management,Neutral,Remote
+Bachelor's Degree,0.15217391304347827,0.9410048451653676,New York,Male,Married,HR Manager,0.5,Java,Satisfied,In-office
+Master's Degree,0.4130434782608696,0.056835896355592996,Los Angeles,Female,Divorced,HR Manager,0.7142857142857142,Data Analysis,Neutral,In-office
+PhD,0.15217391304347827,0.21694754581841158,Chicago,Male,Married,Software Engineer,0.7857142857142857,Java,Very Dissatisfied,In-office
+Master's Degree,0.6086956521739131,0.3781440910048451,Los Angeles,Female,Divorced,Sales Executive,0.5714285714285714,Data Analysis,Neutral,In-office
+Associate Degree,0.6304347826086956,0.5961870655150621,Los Angeles,Female,Single,Researcher,0.3571428571428571,Java,Very Dissatisfied,Remote
+Master's Degree,0.5434782608695652,0.9544027807036022,Houston,Male,Single,Sales Executive,0.3571428571428571,Java,Dissatisfied,In-office
+Associate Degree,0.19565217391304346,0.9835896355593006,Chicago,Male,Married,Graphic Designer,0.42857142857142855,Excel,Neutral,Hybrid
+High School,0.6086956521739131,0.09676637876553612,Phoenix,Female,Single,Sales Executive,0.14285714285714285,Communication,Very Dissatisfied,Hybrid
+Master's Degree,0.32608695652173914,0.4145460290709922,Los Angeles,Male,Married,Sales Executive,0.5,Marketing,Very Dissatisfied,Hybrid
+Master's Degree,0.7608695652173914,0.9221824310090583,Phoenix,Other,Divorced,Researcher,0.6428571428571428,Java,Dissatisfied,Remote
+High School,0.4130434782608696,0.8156098588582261,Phoenix,Male,Divorced,Sales Executive,0.07142857142857142,Project Management,Dissatisfied,Hybrid
+Bachelor's Degree,0.9565217391304348,0.2631135453970928,Phoenix,Male,Divorced,Graphic Designer,0.2857142857142857,Communication,Satisfied,Hybrid
+High School,0.7826086956521738,0.5150621445123236,New York,Female,Single,HR Manager,0.21428571428571427,Data Analysis,Satisfied,Hybrid
+Associate Degree,0.13043478260869568,0.9463661259742995,Houston,Male,Divorced,Project Manager,0.14285714285714285,Python,Satisfied,Remote
+Associate Degree,0.4782608695652174,0.2627764904149989,Houston,Female,Married,Data Scientist,0.2857142857142857,Project Management,Neutral,Remote
+Master's Degree,0.8695652173913044,0.2906888561196545,Chicago,Other,Married,Researcher,0.5714285714285714,Communication,Very Satisfied,In-office
+Bachelor's Degree,0.8478260869565217,0.6294607120286495,Phoenix,Other,Divorced,Marketing Specialist,0.5,Project Management,Very Dissatisfied,Hybrid
+Bachelor's Degree,0.6086956521739131,0.04921002738571728,Phoenix,Female,Divorced,Data Scientist,0.5714285714285714,Project Management,Very Satisfied,In-office
+Bachelor's Degree,0.32608695652173914,0.670075837370971,Los Angeles,Male,Single,Data Scientist,0.3571428571428571,Project Management,Satisfied,In-office
+Associate Degree,0.8043478260869565,0.7727828101959131,New York,Other,Single,Graphic Designer,0.14285714285714285,Communication,Dissatisfied,Hybrid
+Bachelor's Degree,0.5869565217391305,0.07897619549188961,Chicago,Other,Divorced,Software Engineer,0.21428571428571427,Python,Very Dissatisfied,Hybrid
+High School,0.8043478260869565,0.4157573204128923,Phoenix,Male,Married,Sales Executive,0.07142857142857142,Data Analysis,Satisfied,Remote
+Associate Degree,0.6521739130434783,0.7164630292816514,Los Angeles,Female,Divorced,Sales Executive,0.3571428571428571,Excel,Neutral,Hybrid
+Associate Degree,0.28260869565217395,0.7724668211502002,New York,Other,Single,Sales Executive,0.42857142857142855,Marketing,Very Dissatisfied,In-office
+Bachelor's Degree,0.6956521739130435,0.8456814830419213,Chicago,Male,Married,Software Engineer,0.3571428571428571,Data Analysis,Very Dissatisfied,In-office
+PhD,0.17391304347826086,0.6223825574046766,Chicago,Male,Married,Graphic Designer,0.9285714285714285,Java,Dissatisfied,Hybrid
+PhD,0.5652173913043479,0.5905624605013693,Phoenix,Other,Single,Researcher,0.42857142857142855,Communication,Very Dissatisfied,Remote
+Bachelor's Degree,0.5,0.08302085527701702,Chicago,Female,Divorced,Project Manager,0.3571428571428571,Project Management,Dissatisfied,In-office
+Associate Degree,0.26086956521739135,0.856909627132926,Los Angeles,Other,Divorced,Project Manager,0.42857142857142855,Data Analysis,Satisfied,Hybrid
+Bachelor's Degree,0.5434782608695652,0.749494417526859,Chicago,Male,Divorced,Graphic Designer,0.3571428571428571,Java,Neutral,Remote
+Master's Degree,0.6086956521739131,0.5289656625236991,Houston,Other,Single,Marketing Specialist,0.5714285714285714,Communication,Neutral,Remote
+Associate Degree,0.9130434782608696,0.7860543501158626,Los Angeles,Female,Married,Project Manager,0.21428571428571427,Java,Very Dissatisfied,In-office
+PhD,0.5869565217391305,0.020254897830208507,New York,Male,Single,Graphic Designer,0.7857142857142857,Project Management,Very Dissatisfied,In-office
+PhD,0.15217391304347827,0.7970613018748682,Phoenix,Other,Single,Project Manager,0.7142857142857142,Communication,Dissatisfied,Remote
+Master's Degree,0.6086956521739131,0.7926479882030757,Houston,Female,Single,HR Manager,0.5,SQL,Dissatisfied,Hybrid
+High School,0.8913043478260869,0.44160522435222244,New York,Female,Married,Data Scientist,0.0,Marketing,Neutral,Remote
+Associate Degree,0.13043478260869568,0.944712449968401,New York,Other,Single,Project Manager,0.2857142857142857,Project Management,Neutral,In-office
+High School,0.7608695652173914,0.9761638929850431,Chicago,Female,Married,Software Engineer,0.07142857142857142,Java,Satisfied,In-office
+Bachelor's Degree,0.8695652173913044,0.005972192963977219,Los Angeles,Male,Married,Marketing Specialist,0.5714285714285714,Excel,Satisfied,Remote
+Bachelor's Degree,0.5652173913043479,0.3113966715820518,Los Angeles,Male,Divorced,HR Manager,0.5714285714285714,SQL,Very Satisfied,Hybrid
+Bachelor's Degree,0.9782608695652173,0.4277965030545607,Houston,Female,Married,Researcher,0.6428571428571428,SQL,Dissatisfied,Remote
+Bachelor's Degree,0.02173913043478265,0.6597535285443437,Chicago,Other,Divorced,Software Engineer,0.6428571428571428,Python,Very Satisfied,In-office
+High School,0.5217391304347826,0.21903307352011792,New York,Other,Single,Sales Executive,0.0,Data Analysis,Satisfied,Remote
+PhD,0.17391304347826086,0.06260796292395193,New York,Other,Divorced,Data Scientist,1.0,Marketing,Dissatisfied,Remote
+High School,0.5652173913043479,0.16698967769117334,Phoenix,Female,Single,Marketing Specialist,0.2857142857142857,Python,Neutral,In-office
+Bachelor's Degree,0.0,0.6990309669264798,Phoenix,Female,Married,Software Engineer,0.5,Marketing,Very Satisfied,In-office
+Bachelor's Degree,0.4782608695652174,0.7481251316621023,Houston,Female,Single,Graphic Designer,0.5,Java,Dissatisfied,Remote
+Master's Degree,0.19565217391304346,0.2500631978091426,New York,Female,Married,Project Manager,0.5714285714285714,Project Management,Dissatisfied,Remote
+High School,0.8913043478260869,0.2632399410153781,Houston,Male,Single,Project Manager,0.2857142857142857,Excel,Dissatisfied,Remote
+Bachelor's Degree,0.5217391304347826,0.4499684010954286,Chicago,Female,Single,Marketing Specialist,0.5714285714285714,SQL,Very Satisfied,Remote
+Bachelor's Degree,0.043478260869565244,0.8989467031809564,Los Angeles,Other,Single,Project Manager,0.2857142857142857,Python,Neutral,Hybrid
+Associate Degree,0.10869565217391308,0.47276174425953227,New York,Male,Single,Graphic Designer,0.2857142857142857,Excel,Dissatisfied,Remote
+Bachelor's Degree,0.10869565217391308,0.13535917421529386,Chicago,Other,Divorced,Software Engineer,0.42857142857142855,Marketing,Very Satisfied,Hybrid
+PhD,0.02173913043478265,0.3556983357910259,New York,Female,Single,Software Engineer,0.9285714285714285,Project Management,Satisfied,In-office
+PhD,0.3695652173913043,0.9458394775647778,Phoenix,Male,Divorced,Project Manager,1.0,SQL,Very Satisfied,Hybrid
+High School,0.4782608695652174,0.4849905203286286,Houston,Female,Married,Project Manager,0.0,SQL,Very Satisfied,In-office
+Associate Degree,0.02173913043478265,0.7980092690120075,Phoenix,Male,Married,Sales Executive,0.2857142857142857,Marketing,Very Satisfied,Hybrid
+Associate Degree,0.23913043478260876,0.7052348851906467,Los Angeles,Other,Divorced,Data Scientist,0.21428571428571427,Project Management,Dissatisfied,In-office
+Associate Degree,0.4565217391304348,0.45267537392037066,Phoenix,Female,Married,Researcher,0.2857142857142857,SQL,Very Satisfied,Remote
+Associate Degree,0.7826086956521738,0.9975036865388667,New York,Female,Married,Marketing Specialist,0.2857142857142857,Project Management,Satisfied,Hybrid
+Associate Degree,0.4130434782608696,0.029724036233410578,Phoenix,Male,Single,Software Engineer,0.3571428571428571,SQL,Dissatisfied,Hybrid
+PhD,0.8260869565217392,0.298841373499052,New York,Male,Single,Marketing Specialist,0.42857142857142855,Java,Satisfied,In-office
+PhD,0.5,0.12560564567095006,Los Angeles,Female,Single,Sales Executive,1.0,Marketing,Very Dissatisfied,In-office
+High School,0.4130434782608696,0.24759848325258055,Phoenix,Male,Divorced,Software Engineer,0.2857142857142857,Project Management,Very Satisfied,Hybrid
+Bachelor's Degree,0.0,0.7900884769327996,Houston,Male,Married,Sales Executive,0.3571428571428571,Data Analysis,Dissatisfied,Remote
+Associate Degree,0.34782608695652173,0.8531809563935118,Houston,Other,Single,HR Manager,0.21428571428571427,Java,Very Satisfied,Hybrid
+Bachelor's Degree,0.0,0.042416262902886026,Phoenix,Male,Divorced,Project Manager,0.6428571428571428,Communication,Neutral,Remote
+Bachelor's Degree,0.9565217391304348,0.4017484727196124,Phoenix,Other,Divorced,Graphic Designer,0.6428571428571428,Excel,Neutral,Hybrid
+Master's Degree,0.8695652173913044,0.047440488729724006,New York,Male,Divorced,Researcher,0.3571428571428571,SQL,Very Satisfied,Hybrid
+Associate Degree,0.9782608695652173,0.8221402991362965,New York,Male,Married,Marketing Specialist,0.21428571428571427,Java,Neutral,Remote
+High School,0.4565217391304348,0.8204971560985885,Phoenix,Female,Divorced,HR Manager,0.21428571428571427,Project Management,Satisfied,Remote
+Associate Degree,0.9565217391304348,0.9440278070360226,Phoenix,Female,Married,HR Manager,0.21428571428571427,Excel,Satisfied,In-office
+Associate Degree,0.26086956521739135,0.9727933431641036,Chicago,Female,Divorced,Graphic Designer,0.14285714285714285,Marketing,Very Dissatisfied,Remote
+Associate Degree,0.0,0.9803454813566463,New York,Female,Divorced,Graphic Designer,0.3571428571428571,Excel,Dissatisfied,In-office
+Associate Degree,0.5,0.11242890246471454,Chicago,Other,Single,Software Engineer,0.2857142857142857,Excel,Neutral,Remote
+Bachelor's Degree,0.19565217391304346,0.1617547925005266,New York,Male,Married,Sales Executive,0.42857142857142855,Project Management,Satisfied,Hybrid
+High School,0.7391304347826086,0.09804086791657884,Los Angeles,Female,Divorced,Sales Executive,0.07142857142857142,SQL,Very Satisfied,In-office
+PhD,0.5,0.6887823888771856,Houston,Other,Single,HR Manager,0.42857142857142855,Java,Neutral,Remote
+Master's Degree,0.5869565217391305,0.32859700863703384,Los Angeles,Female,Married,Graphic Designer,0.42857142857142855,Java,Very Dissatisfied,Remote
+Bachelor's Degree,0.7608695652173914,0.3791131240783652,Los Angeles,Male,Divorced,Marketing Specialist,0.3571428571428571,Java,Satisfied,Remote
+High School,0.8478260869565217,0.935843690752054,Chicago,Other,Single,HR Manager,0.14285714285714285,Marketing,Dissatisfied,In-office
+Master's Degree,0.34782608695652173,0.5169896776911733,New York,Other,Married,Researcher,0.7142857142857142,SQL,Very Satisfied,In-office
+High School,0.30434782608695654,0.9413734990520328,Phoenix,Male,Divorced,Graphic Designer,0.2857142857142857,Python,Dissatisfied,Remote
+Associate Degree,0.32608695652173914,0.8906361912787024,Los Angeles,Other,Married,Sales Executive,0.3571428571428571,Java,Very Satisfied,In-office
+Bachelor's Degree,0.30434782608695654,0.449662945017906,Phoenix,Other,Single,Graphic Designer,0.42857142857142855,Data Analysis,Dissatisfied,Remote
+Associate Degree,0.7173913043478262,0.516210238045081,Chicago,Male,Divorced,Project Manager,0.2857142857142857,Python,Dissatisfied,Hybrid
+PhD,0.21739130434782616,0.8434274278491678,New York,Male,Divorced,HR Manager,0.5,SQL,Dissatisfied,In-office
+Master's Degree,0.30434782608695654,0.14016220771013266,Chicago,Other,Divorced,Data Scientist,0.7142857142857142,SQL,Dissatisfied,In-office
+Bachelor's Degree,0.5434782608695652,0.46463029281651563,New York,Male,Married,Sales Executive,0.5,Project Management,Satisfied,In-office
+Master's Degree,0.06521739130434784,0.8462713292605857,Chicago,Male,Married,Sales Executive,0.42857142857142855,Communication,Very Dissatisfied,Hybrid
+Bachelor's Degree,0.08695652173913049,0.3666736886454603,Houston,Other,Single,Project Manager,0.42857142857142855,Marketing,Dissatisfied,Hybrid
+Master's Degree,0.7391304347826086,0.3263008215715188,Houston,Other,Single,Data Scientist,0.7857142857142857,Project Management,Very Dissatisfied,In-office
+Bachelor's Degree,0.26086956521739135,0.5995260164314302,Phoenix,Male,Married,Marketing Specialist,0.2857142857142857,Java,Very Dissatisfied,In-office
+Associate Degree,0.19565217391304346,0.9815883716031177,Chicago,Other,Single,Project Manager,0.42857142857142855,SQL,Dissatisfied,In-office
+Bachelor's Degree,0.21739130434782616,0.27770170634084684,New York,Female,Divorced,Software Engineer,0.42857142857142855,SQL,Dissatisfied,In-office
+Master's Degree,0.3695652173913043,0.6051400884769327,New York,Male,Divorced,Researcher,0.7857142857142857,Data Analysis,Satisfied,In-office
+Bachelor's Degree,0.7173913043478262,0.9296608384242679,Phoenix,Other,Married,Researcher,0.2857142857142857,Excel,Neutral,In-office
+PhD,0.8260869565217392,0.9090688856119655,New York,Male,Married,HR Manager,0.5714285714285714,Excel,Very Satisfied,Hybrid
+Bachelor's Degree,0.8913043478260869,0.06282915525595112,Chicago,Male,Single,Sales Executive,0.2857142857142857,SQL,Dissatisfied,Remote
+Master's Degree,0.4782608695652174,0.9861175479250053,New York,Other,Divorced,Data Scientist,0.6428571428571428,Python,Very Dissatisfied,In-office
+Master's Degree,0.8260869565217392,0.45201179692437327,Los Angeles,Female,Divorced,HR Manager,0.7857142857142857,Communication,Very Dissatisfied,In-office
+PhD,0.043478260869565244,0.16968611754792495,Los Angeles,Other,Married,Researcher,0.42857142857142855,Python,Dissatisfied,In-office
+High School,0.13043478260869568,0.09650305456077518,Chicago,Other,Single,Project Manager,0.14285714285714285,Project Management,Very Dissatisfied,In-office
+High School,0.5434782608695652,0.9714661891721086,Houston,Male,Single,Software Engineer,0.0,Excel,Dissatisfied,Hybrid
+Master's Degree,0.6956521739130435,0.825721508321045,Houston,Male,Divorced,Graphic Designer,0.7857142857142857,Excel,Neutral,Hybrid
+Master's Degree,0.7826086956521738,0.5863703391615758,Houston,Male,Married,Project Manager,0.7857142857142857,Data Analysis,Very Satisfied,Remote
+Associate Degree,0.30434782608695654,0.8667263534864125,Chicago,Other,Divorced,Project Manager,0.14285714285714285,SQL,Very Satisfied,Remote
+High School,0.02173913043478265,0.9867495260164314,Chicago,Other,Single,Marketing Specialist,0.07142857142857142,SQL,Very Satisfied,Remote
+High School,0.8695652173913044,0.30606698967769114,Los Angeles,Male,Single,Researcher,0.21428571428571427,Project Management,Neutral,Remote
+Master's Degree,0.13043478260869568,0.18215715188540127,New York,Female,Single,HR Manager,0.7857142857142857,Marketing,Dissatisfied,In-office
+Bachelor's Degree,0.06521739130434784,0.9014324836738994,Phoenix,Female,Single,Project Manager,0.3571428571428571,Data Analysis,Satisfied,Remote
+Master's Degree,0.7608695652173914,0.5614388034548135,Los Angeles,Other,Divorced,Software Engineer,0.6428571428571428,Excel,Neutral,Hybrid
+Bachelor's Degree,0.673913043478261,0.3045502422582684,New York,Male,Divorced,Data Scientist,0.2857142857142857,Python,Neutral,Hybrid
+Bachelor's Degree,0.5869565217391305,0.6278386349273224,New York,Male,Single,Data Scientist,0.2857142857142857,Marketing,Very Satisfied,Hybrid
+High School,0.26086956521739135,0.30578259953654935,Phoenix,Other,Single,Researcher,0.2857142857142857,Java,Dissatisfied,In-office
+Bachelor's Degree,0.0,0.6059511270275963,Los Angeles,Male,Married,Graphic Designer,0.5,Data Analysis,Very Satisfied,Hybrid
+Master's Degree,0.7391304347826086,0.5515167474194227,Chicago,Other,Divorced,HR Manager,0.7142857142857142,Project Management,Satisfied,Hybrid
+PhD,0.6304347826086956,0.5580998525384453,Phoenix,Other,Single,Sales Executive,0.7142857142857142,Marketing,Very Satisfied,Remote
+High School,0.5217391304347826,0.31882241415630924,Los Angeles,Male,Single,Data Scientist,0.14285714285714285,Marketing,Neutral,In-office
+High School,0.32608695652173914,0.4619970507689067,New York,Other,Divorced,Project Manager,0.0,Python,Very Satisfied,Hybrid
+Associate Degree,0.3913043478260869,0.2242890246471455,Houston,Male,Single,Project Manager,0.2857142857142857,Python,Very Satisfied,Hybrid
+Master's Degree,0.0,0.37614282704866225,Houston,Female,Divorced,Marketing Specialist,0.7142857142857142,Marketing,Very Dissatisfied,In-office
+High School,0.08695652173913049,0.10207499473351589,Los Angeles,Female,Single,Researcher,0.0,Data Analysis,Neutral,Remote
+High School,0.9130434782608696,0.9880240151674742,Houston,Other,Divorced,Researcher,0.14285714285714285,Project Management,Satisfied,Hybrid
+Associate Degree,0.7826086956521738,0.8110385506635769,Los Angeles,Female,Divorced,Sales Executive,0.2857142857142857,Project Management,Satisfied,Remote
+Associate Degree,0.7608695652173914,0.38008215715188537,Chicago,Female,Married,Researcher,0.2857142857142857,Marketing,Neutral,Remote
+Master's Degree,0.7608695652173914,0.1614598693911944,Houston,Male,Single,Data Scientist,0.5,Project Management,Satisfied,Hybrid
+Bachelor's Degree,0.06521739130434784,0.21420897408889822,Houston,Other,Divorced,Graphic Designer,0.42857142857142855,SQL,Dissatisfied,Remote
+PhD,0.3695652173913043,0.018000842637455217,Phoenix,Male,Married,Project Manager,0.42857142857142855,Communication,Dissatisfied,Hybrid
+Bachelor's Degree,0.32608695652173914,0.7858015588792922,Los Angeles,Male,Divorced,Researcher,0.6428571428571428,Excel,Neutral,In-office
+Master's Degree,0.8695652173913044,0.8999999999999999,New York,Other,Divorced,Data Scientist,0.42857142857142855,Python,Neutral,In-office
+High School,0.3695652173913043,0.823572782810196,Los Angeles,Male,Single,Software Engineer,0.0,SQL,Dissatisfied,In-office
+High School,0.02173913043478265,0.48587528965662513,Phoenix,Female,Divorced,Software Engineer,0.0,Marketing,Very Satisfied,Hybrid
+PhD,0.9347826086956521,0.0028017695386559627,Houston,Male,Single,Sales Executive,0.6428571428571428,Java,Very Dissatisfied,In-office
+Associate Degree,1.0,0.1201390351801137,Chicago,Male,Single,Data Scientist,0.42857142857142855,Data Analysis,Dissatisfied,Remote
+Bachelor's Degree,0.8260869565217392,0.614640825784706,Chicago,Female,Single,Software Engineer,0.6428571428571428,Project Management,Satisfied,Remote
+Bachelor's Degree,0.5434782608695652,0.048736043817147634,Chicago,Male,Married,Software Engineer,0.21428571428571427,Marketing,Very Dissatisfied,Remote
+Bachelor's Degree,0.4347826086956522,0.8742468927743838,Phoenix,Male,Married,Marketing Specialist,0.5714285714285714,Project Management,Neutral,In-office
+Master's Degree,0.34782608695652173,0.48662313039814614,Houston,Other,Single,Software Engineer,0.3571428571428571,Java,Dissatisfied,Hybrid
+PhD,0.32608695652173914,0.03942489993680215,Houston,Male,Married,Marketing Specialist,0.6428571428571428,Excel,Very Dissatisfied,Hybrid
+Associate Degree,0.6521739130434783,0.7801874868337897,Los Angeles,Male,Married,Software Engineer,0.14285714285714285,Data Analysis,Very Dissatisfied,Hybrid
+Master's Degree,0.28260869565217395,0.18464293237834417,Los Angeles,Other,Married,HR Manager,0.42857142857142855,Java,Neutral,Hybrid
+Bachelor's Degree,0.7826086956521738,0.6152096060669896,Los Angeles,Other,Divorced,Software Engineer,0.6428571428571428,Marketing,Neutral,Hybrid
+PhD,0.02173913043478265,0.9698230461344006,Los Angeles,Male,Divorced,Data Scientist,0.5714285714285714,Data Analysis,Satisfied,Remote
+High School,0.9782608695652173,0.3407204550242258,Houston,Female,Single,Sales Executive,0.07142857142857142,Excel,Neutral,Hybrid
+PhD,0.28260869565217395,0.9208974088898252,New York,Female,Single,HR Manager,0.7857142857142857,Excel,Neutral,Remote
+High School,0.6956521739130435,0.8204760901622077,Los Angeles,Female,Divorced,HR Manager,0.2857142857142857,Excel,Neutral,Remote
+Bachelor's Degree,0.7391304347826086,0.3086580998525384,Houston,Male,Single,Software Engineer,0.6428571428571428,SQL,Dissatisfied,Hybrid
+Master's Degree,0.8260869565217392,0.4919844112070781,Los Angeles,Female,Single,Sales Executive,0.6428571428571428,SQL,Neutral,In-office
+Associate Degree,1.0,0.9374657678533811,Chicago,Female,Divorced,Data Scientist,0.21428571428571427,Communication,Satisfied,Hybrid
+Bachelor's Degree,0.4130434782608696,0.7788287339372235,Los Angeles,Female,Divorced,HR Manager,0.6428571428571428,Excel,Very Dissatisfied,In-office
+Associate Degree,0.02173913043478265,0.5469138403202021,Los Angeles,Male,Single,Data Scientist,0.14285714285714285,Data Analysis,Dissatisfied,Remote
+PhD,0.8695652173913044,0.2208026121761112,Phoenix,Female,Married,Marketing Specialist,1.0,Marketing,Very Satisfied,In-office
+Master's Degree,0.3913043478260869,0.2890667790183273,Chicago,Female,Single,Researcher,0.6428571428571428,Project Management,Neutral,Hybrid
+Bachelor's Degree,0.3695652173913043,0.28250473983568564,Los Angeles,Other,Divorced,Researcher,0.42857142857142855,SQL,Very Dissatisfied,In-office
+Master's Degree,0.32608695652173914,0.01593638087212973,New York,Female,Married,Researcher,0.5,Java,Dissatisfied,Hybrid
+Associate Degree,0.06521739130434784,0.02882873393722346,Chicago,Other,Divorced,Sales Executive,0.42857142857142855,Data Analysis,Very Satisfied,In-office
+Bachelor's Degree,0.23913043478260876,0.4534021487255108,Los Angeles,Female,Single,Graphic Designer,0.42857142857142855,Communication,Satisfied,Remote
+Master's Degree,0.6086956521739131,0.30814198441120705,Phoenix,Male,Single,Project Manager,0.42857142857142855,SQL,Very Dissatisfied,In-office
+Associate Degree,0.13043478260869568,0.007804929429113094,Houston,Other,Divorced,Marketing Specialist,0.3571428571428571,Project Management,Very Dissatisfied,In-office
+High School,0.28260869565217395,0.18725510848957233,Phoenix,Other,Divorced,Sales Executive,0.07142857142857142,Python,Very Dissatisfied,In-office
+High School,0.23913043478260876,0.9531282915525594,Phoenix,Other,Divorced,Software Engineer,0.2857142857142857,Communication,Very Dissatisfied,In-office
+High School,0.7391304347826086,0.031009058352643726,Houston,Other,Single,Graphic Designer,0.07142857142857142,SQL,Dissatisfied,Remote
+Master's Degree,0.08695652173913049,0.19199494417526858,Houston,Female,Single,Software Engineer,0.5714285714285714,Marketing,Very Satisfied,Remote
+Bachelor's Degree,0.34782608695652173,0.19617653254687167,Houston,Female,Married,Data Scientist,0.6428571428571428,Communication,Very Dissatisfied,Remote
+Associate Degree,0.19565217391304346,0.27100273857172946,New York,Other,Single,Graphic Designer,0.14285714285714285,Excel,Neutral,Hybrid
+Associate Degree,0.9130434782608696,0.44629239519696645,Houston,Other,Married,Project Manager,0.2857142857142857,Excel,Very Dissatisfied,Remote
+Master's Degree,0.34782608695652173,0.4632926058563303,Phoenix,Male,Married,Software Engineer,0.7142857142857142,Excel,Very Dissatisfied,In-office
+PhD,0.9565217391304348,0.40239098377922894,Houston,Female,Single,Graphic Designer,0.7857142857142857,Python,Very Dissatisfied,In-office
+Bachelor's Degree,0.8913043478260869,0.2936696861175479,Phoenix,Other,Divorced,Graphic Designer,0.5,Project Management,Very Dissatisfied,Hybrid
+Bachelor's Degree,0.17391304347826086,0.8068569622919739,Phoenix,Male,Married,HR Manager,0.42857142857142855,Data Analysis,Satisfied,In-office
+Bachelor's Degree,0.6956521739130435,0.6061091215504528,Los Angeles,Female,Single,HR Manager,0.42857142857142855,Communication,Very Satisfied,In-office
+PhD,0.7608695652173914,0.9042658521171265,Los Angeles,Male,Single,Sales Executive,0.7857142857142857,Java,Very Satisfied,Hybrid
+Master's Degree,0.7608695652173914,0.6713608594902043,New York,Male,Married,HR Manager,0.7142857142857142,Data Analysis,Neutral,Remote
+High School,0.3695652173913043,0.27850221192332,New York,Other,Single,Software Engineer,0.07142857142857142,Marketing,Satisfied,Hybrid
+Bachelor's Degree,0.17391304347826086,0.013534864124710333,Chicago,Male,Divorced,Sales Executive,0.6428571428571428,Marketing,Very Dissatisfied,Hybrid
+Bachelor's Degree,0.6086956521739131,0.08235727828101957,Chicago,Male,Divorced,Researcher,0.5714285714285714,Communication,Very Satisfied,Hybrid
+Master's Degree,0.28260869565217395,0.5286918053507479,Chicago,Female,Married,Sales Executive,0.7857142857142857,Communication,Dissatisfied,Hybrid
+Associate Degree,0.5217391304347826,0.7865388666526227,Chicago,Male,Divorced,Data Scientist,0.3571428571428571,Project Management,Dissatisfied,Hybrid
+PhD,0.10869565217391308,0.03430587739625024,Phoenix,Other,Single,Graphic Designer,1.0,Communication,Very Dissatisfied,In-office
+Associate Degree,0.8913043478260869,0.3774489151042763,New York,Other,Single,Data Scientist,0.21428571428571427,Excel,Very Dissatisfied,Remote
+High School,0.30434782608695654,0.19672424689277435,Los Angeles,Female,Married,Sales Executive,0.2857142857142857,Java,Neutral,Hybrid
+High School,0.6086956521739131,0.005550874236359804,Houston,Other,Divorced,Graphic Designer,0.21428571428571427,Excel,Neutral,Remote
+High School,0.06521739130434784,0.224299557615336,Phoenix,Male,Divorced,HR Manager,0.0,Java,Dissatisfied,Remote
+High School,0.3695652173913043,0.7472087634295344,Chicago,Other,Single,Project Manager,0.21428571428571427,SQL,Very Dissatisfied,Hybrid
+Master's Degree,0.9347826086956521,0.70459237413103,Chicago,Other,Married,Sales Executive,0.7142857142857142,Java,Dissatisfied,In-office
+Associate Degree,0.32608695652173914,0.11155466610490833,Los Angeles,Other,Single,Data Scientist,0.3571428571428571,SQL,Very Dissatisfied,Remote
+High School,0.21739130434782616,0.7621866441963345,Chicago,Female,Married,Data Scientist,0.2857142857142857,Excel,Satisfied,In-office
+Associate Degree,0.28260869565217395,0.6240362334105751,Los Angeles,Male,Married,HR Manager,0.3571428571428571,Marketing,Very Satisfied,In-office
+High School,0.043478260869565244,0.7704339582894459,Houston,Other,Single,Researcher,0.07142857142857142,Excel,Very Satisfied,Remote
+Bachelor's Degree,0.8913043478260869,0.22326732673267324,Los Angeles,Male,Divorced,Marketing Specialist,0.21428571428571427,SQL,Neutral,Hybrid
+Master's Degree,0.8913043478260869,0.5581525173793975,Chicago,Other,Divorced,Marketing Specialist,0.3571428571428571,Python,Very Dissatisfied,Remote
+High School,0.3695652173913043,0.8018327364651359,New York,Female,Married,Graphic Designer,0.0,Python,Dissatisfied,Hybrid
+Master's Degree,0.4130434782608696,0.07736465135875287,Phoenix,Other,Married,Researcher,0.7857142857142857,Data Analysis,Neutral,Hybrid
+High School,0.5217391304347826,0.3713187276174425,Los Angeles,Male,Single,Graphic Designer,0.07142857142857142,Python,Dissatisfied,Hybrid
+Associate Degree,0.06521739130434784,0.8853697071834843,New York,Female,Single,Project Manager,0.21428571428571427,Python,Very Satisfied,In-office
+Bachelor's Degree,0.28260869565217395,0.4128080893195702,Houston,Other,Single,HR Manager,0.5,SQL,Dissatisfied,Remote
+Associate Degree,0.5869565217391305,0.8420370760480302,New York,Other,Married,Sales Executive,0.3571428571428571,Python,Very Dissatisfied,In-office
+High School,0.15217391304347827,0.3552980829997893,New York,Female,Single,Sales Executive,0.21428571428571427,Communication,Very Dissatisfied,In-office
+Master's Degree,0.9347826086956521,0.40198019801980195,New York,Male,Divorced,Software Engineer,0.5714285714285714,Python,Very Satisfied,Hybrid
+Associate Degree,0.7173913043478262,0.045850010532968166,New York,Female,Single,Project Manager,0.21428571428571427,Communication,Satisfied,In-office
+High School,0.9347826086956521,0.2057088687592163,Houston,Other,Divorced,Project Manager,0.21428571428571427,Java,Satisfied,In-office
+High School,0.08695652173913049,0.32393090372867067,Phoenix,Female,Divorced,Sales Executive,0.0,SQL,Very Dissatisfied,Hybrid
+High School,0.08695652173913049,0.050073730777333014,Chicago,Female,Married,Marketing Specialist,0.0,SQL,Very Satisfied,In-office
+Bachelor's Degree,0.6521739130434783,0.9625974299557616,Houston,Other,Single,Software Engineer,0.5714285714285714,Data Analysis,Very Dissatisfied,Remote
+Master's Degree,0.9565217391304348,0.5759848325258057,Houston,Other,Single,Marketing Specialist,0.5,Communication,Dissatisfied,In-office
+High School,0.17391304347826086,0.9997577417316199,Phoenix,Other,Divorced,Data Scientist,0.2857142857142857,Data Analysis,Satisfied,Remote
